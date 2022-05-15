@@ -1,0 +1,57 @@
+[{
+    "title1":"Graphic Design",
+    "title2":"插畫設計",
+    "link":"illastration_design-head",
+    "link2":"illastration_design",
+    "alt":"graphic_design"
+},
+{
+    "title1":"Graphic Design",
+    "title2":"BANNER設計",
+    "link":"graphic_design-head",
+    "link2":"graphic_design",
+    "alt":"graphic_design"
+},
+{
+    "title1":"UI Design",
+    "title2":"Jabra耳機APP UI設計(仿作)",
+    "link":"jabra_ui_design-head",
+    "link2":"jabra_ui_design",
+    "alt":"ui_design"
+},
+{
+    "title1":"UI Design",
+    "title2":"巨光眼鏡APP UI設計",
+    "link":"gq_app-head",
+    "link2":"gq_app",
+    "alt":"ui_design"
+},
+{
+    "title1":"UI Design",
+    "title2":"FOODIEZ APP UI設計",
+    "link":"foodiez_ui_design-head",
+    "link2":"foodiez_ui_design",
+    "alt":"ui_design"
+},
+{
+    "title1":"Web Design",
+    "title2":"Mr.Voice官方網站設計",
+    "link":"mr.voice_web_design-head",
+    "link2":"mr.voice_web_design",
+    "alt":"web_design"
+},
+{
+    "title1":"Web Design",
+    "title2":"Raise Sun衣著官方網站設計",
+    "link":"RaiseSun_web_design-head",
+    "link2":"RaiseSun_web_design",
+    "alt":"web_design"
+},
+{
+    "title1":"Web Design",
+    "title2":"台大推廣部官網設計(仿作)",
+    "link":"TU_web_design-head",
+    "link2":"TU_web_design",
+    "alt":"web_design"
+}
+]
