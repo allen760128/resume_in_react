@@ -20,7 +20,7 @@
     {
         "id": 3,
         "title1": "UI Design",
-        "title2": "Jabra耳機APP UI設計(仿作)",
+        "title2": "Jabra耳機APP UI設計\n(side-project)",
         "link": "jabra_ui_design-head",
         "link2": "jabra_ui_design",
         "link3": "https://snack.expo.dev/@happyalien543/github.com-allen760128-20220308-jabra",
@@ -29,7 +29,7 @@
     {
         "id": 4,
         "title1": "UI Design",
-        "title2": "巨光眼鏡APP UI設計",
+        "title2": "巨光眼鏡APP UI設計\n(side-project)",
         "link": "gq_app-head",
         "link2": "gq_app",
         "link3": "",
@@ -38,7 +38,7 @@
     {
         "id": 5,
         "title1": "UI Design",
-        "title2": "FOODIEZ APP UI設計",
+        "title2": "FOODIEZ APP UI設計\n(side-project)",
         "link": "foodiez_ui_design-head",
         "link2": "foodiez_ui_design",
         "link3": "",
@@ -56,7 +56,7 @@
     {
         "id": 7,
         "title1": "Web Design",
-        "title2": "Raise Sun衣著官方網站設計",
+        "title2": "Raise Sun\n(side-project)",
         "link": "RaiseSun_web_design-head",
         "link2": "RaiseSun_web_design",
         "link3": "https://allen760128.github.io/raisesun-closet-redux/build/index.html",
@@ -65,7 +65,7 @@
     {
         "id": 8,
         "title1": "Web Design",
-        "title2": "LaLasia(side-project)",
+        "title2": "LaLasia\n(side-project)",
         "link": "lalasia_design-head",
         "link2": "lalasia_web_design",
         "link3": "https://side-project-furniture-git-new-allen760128.vercel.app/",
@@ -74,7 +74,7 @@
     {
         "id": 9,
         "title1": "Web Design",
-        "title2": "Atlas(side-project)",
+        "title2": "Atlas\n(side-project)",
         "link": "atlas_design-head",
         "link2": "atlas_web_design",
         "link3": "https://allen760128.github.io/atlas/dist/#/",
